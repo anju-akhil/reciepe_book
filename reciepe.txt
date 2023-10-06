@@ -1,0 +1,6 @@
+reciepe name:butter chicken
+ingrediance:
+chicken 1kg
+chilly powder 100gm
+pepper 50g
+salt
